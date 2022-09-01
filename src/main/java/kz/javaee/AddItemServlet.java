@@ -2,7 +2,7 @@ package kz.javaee;
 
 import DB.DbManager;
 import DB.Items;
-
+//what a fuck is this man tell me
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
